@@ -7,7 +7,7 @@
     <groupId>com.vnpt.chatbot</groupId>
     <artifactId>voice</artifactId>
     <version>1.0.0</version>
-    <packaging>aar</packaging>
+
 
     <name>Chatbot Voice SDK</name>
     <description>Voice SDK for VNPT Chatbot</description>

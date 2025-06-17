@@ -1,0 +1,5 @@
+install:
+  file: voice-1.0.0.aar
+  artifactId: voice
+  groupId: com.vnpt.chatbot
+  version: 1.0.0
